@@ -33,7 +33,7 @@ This repository contains my notes, practice queries, and interview-oriented conc
   - ANY
   - ALL
   - EXISTS / NOT EXISTS
--✅ CASE Statements
+- ✅ CASE Statements
 - ✅String Functions
   - CONCAT()
   - SUBSTRING()
