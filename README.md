@@ -32,6 +32,18 @@ This repository contains my notes, practice queries, and interview-oriented conc
   - NOT IN
   - ANY
   - ALL
+  - EXISTS / NOT EXISTS
+-✅ CASE Statements
+- ✅String Functions
+  - CONCAT()
+  - SUBSTRING()
+  - LOWER()
+
+## 💻 HackerRank Problems Solved
+
+- Type of Triangle
+- The PADS
+
 
 ---
 
@@ -39,6 +51,8 @@ This repository contains my notes, practice queries, and interview-oriented conc
 
 - MySQL
 - MySQL Workbench
+- GitHub
+- HackerRank
 ---
 
 ## 🎯 Purpose
@@ -56,11 +70,10 @@ I will continue updating this repository as I learn advanced SQL topics and solv
 
 ## 🚀 Upcoming Topics
 
-- EXISTS
-- NOT EXISTS
-- Correlated Subqueries
+
 - Window Functions
 - Common Table Expressions (CTEs)
 - Stored Procedures
 - Triggers
+- transactions
 - Real Interview SQL Problems
